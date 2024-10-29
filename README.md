@@ -1,4 +1,4 @@
-# personal Portfolio
+# Personal Portfolio
 
 This repository contains the code for my personal portfolio, built to showcase my skills, projects, and experience as a full-stack developer. The portfolio is created using **React** with a focus on responsive design, smooth navigation, and a clean, professional layout.
 
