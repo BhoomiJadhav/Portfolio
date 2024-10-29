@@ -29,13 +29,13 @@ const Resume = () => {
             GitHub
           </a>
         </div>
-        <a
+        {/* <a
           href="/Resume.pdf"
           download
           className="bg-yellow-500 text-gray-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-600 transition duration-300"
         >
           Download Resume
-        </a>
+        </a> */}
       </div>
 
       {/* Summary Section */}
