@@ -1,6 +1,8 @@
 import React from "react";
 
 const Resume = () => {
+  const resumeURL = "/Bhoomi Jadhav-Resume.pdf"; // Direct path to the public asset
+
   return (
     <div className="bg-gray-900 text-white p-8">
       <section className="max-w-3xl mx-auto text-center mb-12">
@@ -8,14 +10,14 @@ const Resume = () => {
 
         <div className="mb-8">
           <iframe
-            src="../../public/Bhoomi Jadhav-Resume.pdf"
+            src={resumeURL}
             className="w-full h-[600px] rounded-lg shadow-lg mb-4"
             title="My Resume"
           ></iframe>
         </div>
 
         <a
-          href="../../public/Bhoomi Jadhav-Resume.pdf"
+          href={resumeURL}
           download
           className="bg-yellow-400 text-gray-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-500"
         >
