@@ -17,7 +17,7 @@ const projects = [
     name: "Personal Portfolio Website",
     description:
       "Showcasing skills and projects with a clean design using HTML, CSS, and GSAP animations.",
-    link: "#",
+    link: "https://github.com/BhoomiJadhav/Portfolio",
   },
   {
     name: "DevTube",
