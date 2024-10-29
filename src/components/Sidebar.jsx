@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import myAvtar from "../assets/avatar.png";
+import myAvtar from "../assets/avtar2.png";
 import { MdOutlineMail } from "react-icons/md";
 import { FaMobileRetro } from "react-icons/fa6";
 import { SlCalender } from "react-icons/sl";
@@ -16,7 +16,7 @@ const Sidebar = () => {
         <img
           src={myAvtar}
           alt="Avatar"
-          className="w-[300px] h-[200px] rounded-full "
+          className="w-[300px] h-[150px] rounded-full "
         />
       </div>
       <div>
