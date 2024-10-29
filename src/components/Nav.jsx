@@ -1,37 +1,3 @@
-// import React from "react";
-
-// const Nav = () => {
-//   return (
-//     <div className="navdiv w-[650px]  bg-gray rounded-bl-3xl rounded-tr-2xl ml-[15.4rem] pb-4 pt-2 text-center border-b-2 border-b-zinc-700 ">
-//       <a
-//         href="./About.jsx"
-//         className="text-white text-[20px]  pl-6 pr-10 hover:text-yellow-400 font-semibold"
-//       >
-//         About Me
-//       </a>
-//       <a
-//         href="./Resume.jsx"
-//         className="text-white text-[20px]  pl-6 pr-10 hover:text-yellow-400 font-semibold"
-//       >
-//         Resume
-//       </a>
-//       <a
-//         href="./Skills.jsx"
-//         className="text-white text-[20px]  pl-6 pr-10 hover:text-yellow-400 font-semibold"
-//       >
-//         Skills
-//       </a>
-//       <a
-//         href="./Contact.jsx"
-//         className="text-white text-[20px] pl-6 pr-10 hover:text-yellow-400 font-semibold"
-//       >
-//         Contact Me
-//       </a>
-//     </div>
-//   );
-// };
-
-// export default Nav;
 import React from "react";
 import { Link } from "react-router-dom";
 

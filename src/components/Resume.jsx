@@ -1,7 +1,7 @@
 import React from "react";
 
 const Resume = () => {
-  const resumeURL = "../../public/Bhoomi Jadhav-Resume.pdf"; // Direct path to the public asset
+  const resumeURL = "/Resume.pdf"; // Place the PDF directly in the public folder
 
   return (
     <div className="bg-gray-900 text-white p-8">
@@ -19,7 +19,7 @@ const Resume = () => {
         <a
           href={resumeURL}
           download
-          className="bg-yellow-400 text-gray-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-500"
+          className="bg-yellow-400 text-gray-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-500 transition duration-300"
         >
           Download Resume
         </a>
