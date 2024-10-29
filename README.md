@@ -4,8 +4,8 @@ This repository contains the code for my personal portfolio, built to showcase m
 
 ## Project Overview
 
-![alt text](src/assets/demo.png)
-![alt text](src/assets/demo2.png)
+![demo1](src/assets/demo.png)
+![demo2](src/assets/demo2.png)
 
 This portfolio includes the following sections:
 
