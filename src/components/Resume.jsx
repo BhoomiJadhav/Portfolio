@@ -30,7 +30,7 @@ const Resume = () => {
           </a>
         </div>
         <a
-          href="../../public/Resume.pdf"
+          href="/Resume.pdf"
           download
           className="bg-yellow-500 text-gray-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-600 transition duration-300"
         >
