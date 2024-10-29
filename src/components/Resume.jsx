@@ -1,7 +1,7 @@
 import React from "react";
 
 const Resume = () => {
-  const resumeURL = "/Bhoomi Jadhav-Resume.pdf"; // Direct path to the public asset
+  const resumeURL = "../../public/Bhoomi Jadhav-Resume.pdf"; // Direct path to the public asset
 
   return (
     <div className="bg-gray-900 text-white p-8">
