@@ -12,7 +12,6 @@ function App() {
       <Nav />
       <Routes>
         <Route path="/" element={<div>About Me</div>} />{" "}
-        {/* Replace with actual components */}
         <Route path="/resume" element={<div>Resume</div>} />
         <Route path="/skills" element={<div>Skills</div>} />
         <Route path="/contact" element={<div>Contact Me</div>} />
