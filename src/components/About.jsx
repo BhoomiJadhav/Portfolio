@@ -21,20 +21,22 @@ const About = () => {
       <section className="max-w-3xl mx-auto mb-12">
         <h2 className="text-3xl font-bold mb-4 text-yellow-400">About Me</h2>
         <p className="text-gray-300 mb-4">
-          I am a Computer Engineering Student of Third Year in Mumbai
-          University. Passionate about technology and problem-solving, I’m eager
-          to start my career in web development and software engineering.
-          Equipped with a foundational knowledge in front-end and back-end
-          technologies, I am ready to build solutions that are both functional
-          and aesthetically pleasing.
+          I’m a final-year Computer Engineering student with strong hands-on
+          experience in Java, the MERN stack, and core DSA fundamentals. I love
+          building interactive, functional, and user-centric web
+          applications—whether it’s an AI-powered mock interview platform like
+          InterviewAI or a real-time developer video-sharing platform like
+          DevTube. I enjoy working end-to-end across the stack, from crafting
+          clean React frontends to architecting secure REST APIs, integrating
+          OAuth, and managing databases with MongoDB and MySQL.
         </p>
         <p className="text-gray-300">
-          During my Second year, I completed several small projects, including
-          an E-library for Engineering Students, Blogging Website, and a
-          contract farming platform named FarmLink. My technical skills cover
-          web development with MERN Stack, basic DSA (Data Structures and
-          Algorithms), and more. I’m excited to apply my skills in a
-          professional setting and continue growing.
+          I’m driven by continuous learning and solving real-world problems
+          through technology. Hackathons, internships, and personal projects
+          help me stay curious and improve my skills every day. I’m currently
+          seeking opportunities where I can apply my full-stack development
+          skills, contribute to impactful products, and grow as a software
+          engineer in a dynamic and collaborative environment.
         </p>
       </section>
 

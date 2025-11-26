@@ -1,6 +1,6 @@
 "use client";
-import React from "react";
-import myAvtar from "../assets/avtar2.png";
+
+import img from "../assets/img.jpeg";
 import { MdOutlineMail } from "react-icons/md";
 import { FaMobileRetro } from "react-icons/fa6";
 import { SlCalender } from "react-icons/sl";
@@ -12,12 +12,15 @@ import { FaInstagram } from "react-icons/fa";
 const Sidebar = () => {
   return (
     <div className="relative   max-w-[300px] h-[750px] bg-customGray mt-[5rem] ml-[10rem] rounded-2xl  border-2 border-gray sticky">
-      <div className="relative w-[150px] h-[150px] bg-zinc-600 mt-[3rem] rounded-xl ml-[4.5rem] flex justify-center items-center">
+      {/* <div className="relative w-[150px] h-[150px] bg-zinc-600 mt-[3rem] rounded-xl ml-[4.5rem] flex justify-center items-center">
         <img
-          src={myAvtar}
+          src={img}
           alt="Avatar"
           className="w-[300px] h-[150px] rounded-full "
         />
+      </div> */}
+      <div className="relative w-[140px] h-[140px] rounded-full overflow-hidden mx-auto mt-10">
+        <img src={img} alt="Avatar" className="w-full h-full object-center" />
       </div>
       <div>
         <h1 className="text-[30px] font-semibold text-white text-center mt-[2rem]">
